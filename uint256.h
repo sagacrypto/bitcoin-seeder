@@ -1,9 +1,10 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2011 The Bitcoin developers
+// Copyright (c) 2018 SagaCoin Development Team
 // Distributed under the MIT/X11 software license, see the accompanying
 // file license.txt or http://www.opensource.org/licenses/mit-license.php.
-#ifndef BITCOIN_UINT256_H
-#define BITCOIN_UINT256_H
+#ifndef SAGACOIN_UINT256_H
+#define SAGACOIN_UINT256_H
 
 #include "serialize.h"
 
